@@ -1,8 +1,0 @@
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\bin\Debug\Fibonacci Series.exe.config
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\bin\Debug\Fibonacci Series.exe
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\bin\Debug\Fibonacci Series.pdb
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\obj\Debug\Fibonacci Series.csproj.AssemblyReference.cache
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\obj\Debug\Fibonacci Series.csproj.SuggestedBindingRedirects.cache
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\obj\Debug\Fibonacci Series.csproj.CoreCompileInputs.cache
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\obj\Debug\Fibonacci Series.exe
-C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Fibonacci Series\Fibonacci Series\obj\Debug\Fibonacci Series.pdb
